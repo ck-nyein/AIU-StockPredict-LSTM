@@ -1,3 +1,4 @@
+pip = 24.0
 yfinance
 scikit-learn
 plotly
