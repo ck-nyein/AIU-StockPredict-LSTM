@@ -1,7 +1,6 @@
 yfinance
 scikit-learn
 plotly
-tensorflow
 streamlit
 numpy
 pandas
