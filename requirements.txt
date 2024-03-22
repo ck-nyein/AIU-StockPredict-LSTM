@@ -6,4 +6,4 @@ numpy
 pandas
 datetime 
 keras
-time
+time==1.0.0
