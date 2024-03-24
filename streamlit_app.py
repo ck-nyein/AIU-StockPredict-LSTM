@@ -287,6 +287,7 @@ def main():
         # Build the LSTM model
         input_shape = (X_train.shape[1], X_train.shape[2])
         model = create_lstm_model(input_shape)
+        print(model.summary())
 
         st.divider()
         st.subheader("LSTM Model Training Progress")
