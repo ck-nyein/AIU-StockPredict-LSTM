@@ -1,9 +1,7 @@
-yfinance
-scikit-learn
-plotly
-streamlit
-numpy
-pandas
-datetime 
-keras
-time==1.0.0
+streamlit==1.32.2
+numpy==1.26.4
+pandas==2.2.1
+yfinance==0.2.37
+plotly==5.20.0
+tensorflow==2.16.1
+scikit-learn==1.4.1.post1
